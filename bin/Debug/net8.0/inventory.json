@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "c5a6888e-cb54-47e0-b92e-14d22d5d0c9c",
+    "Name": "Box1",
+    "Location": {
+      "Aisle": "A1",
+      "Shelf": "S1"
+    },
+    "Items": []
+  }
+]

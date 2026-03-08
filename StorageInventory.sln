@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageInventory", "StorageInventory.csproj", "{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		Box.cs = Box.cs
+		Item.cs = Item.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ValueObjects", "ValueObjects", "{DCDE2D94-6BEB-4686-A340-FF17EB98666D}"
+	ProjectSection(SolutionItems) = preProject
+		Location.cs = Location.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{FCC40FAD-4B7B-4C60-B75F-1A8FBDACAFF8}"
+	ProjectSection(SolutionItems) = preProject
+		InventoryService.cs = InventoryService.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{68263DC3-9DC8-4295-8E25-DF7FA8CAC2CF}"
+	ProjectSection(SolutionItems) = preProject
+		InventoryReposetory.cs = InventoryReposetory.cs
+		JsonInventoryReposetory.cs = JsonInventoryReposetory.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DTOs", "DTOs", "{D42D7037-0D94-4F35-AE42-F5D0C83B8442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DCDE2D94-6BEB-4686-A340-FF17EB98666D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{D42D7037-0D94-4F35-AE42-F5D0C83B8442} = {FCC40FAD-4B7B-4C60-B75F-1A8FBDACAFF8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A82A8FF6-522B-4D11-B5A6-B7A7548F7764}
+	EndGlobalSection
+EndGlobal
