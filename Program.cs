@@ -1,14 +1,78 @@
 ﻿using StorageInventory.Application;
 using StorageInventory.Infrastructure;
 
-IInventoryRepository repository = new JsonInventoryRepository();
+var repository = new JsonInventoryRepository();
 var service = new InventoryService(repository);
 
-await service.CreateBoxAsync("Box1", "A1", "S1");
+while (true)
+{
+    Console.WriteLine("1. Create box");
+    Console.WriteLine("2. Add item to box");
+    Console.WriteLine("3. List boxes");
+    Console.WriteLine("4. Exit");
+    var choice = Console.ReadLine();
+    switch (choice)
+    {
+        case "1":
+            await CreateBox();
+            break;
+        case "2":
+            await AddItem();
+            break;
+        case "3":
+            await ListBoxes();
+            break;
+        case "4":
+            return;
+        default:
+            Console.WriteLine("Invalid choice, try again.");
+            break;
+    }
+}
+async Task CreateBox()
+{
+    var name = ReadString("Enter Box Name");
+    var aisle = ReadString("Enter aisle");
+    var shelf = ReadString("Enter shelf");
 
+    await service.CreateBoxAsync(name, aisle, shelf);
+}
+async Task AddItem()
+{
 var boxes = await service.GetAllAsync();
 
 foreach (var box in boxes)
 {
-    Console.WriteLine($"Box: {box.Name}, Location: {box.Location.Aisle}-{box.Location.Shelf}");
+    Console.WriteLine($"{box.Name} - {box.Id}");
+}
+var idInput = ReadString("Enter box id");
+if (!Guid.TryParse(idInput, out var boxId))
+{
+    Console.WriteLine("Invalid box id");
+    return;
+}
+var itemName =ReadString("Enter item name" );
+int quantityInput = int.TryParse(ReadString("Enter quantity (default 1)"), out var q) ? q : 1;
+
+await service.AddItemToBoxAsync(boxId, itemName, quantityInput);
+}
+async Task ListBoxes()
+{
+    var boxes = await service.GetAllAsync();
+
+    foreach (var box in boxes)
+    {
+        Console.WriteLine($"Box: {box.Name} ({box.Location.Aisle}-{box.Location.Shelf})");
+
+        foreach (var item in box.Items)
+        {
+            Console.WriteLine($"  - {item.Name}: {item.Quantity}");
+        }
+    }
+}
+
+static string ReadString(string message)
+{
+    Console.Write($"{message}: ");
+    return Console.ReadLine() ?? "";
 }

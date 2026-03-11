@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\",
+  "WorkspaceRootPath": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|c:\\programerings leking\\lagerbod bibliotek\\storageinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\Box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|c:\\programerings leking\\lagerbod bibliotek\\storageinventory\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|solutionrelative:box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|c:\\programerings leking\\lagerbod bibliotek\\storageinventory\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\Location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|c:\\programerings leking\\lagerbod bibliotek\\storageinventory\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|solutionrelative:location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\InventoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|c:\\programerings leking\\lagerbod bibliotek\\storageinventory\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|solutionrelative:inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\IInventoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IInventoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|c:\\programerings leking\\lagerbod bibliotek\\storageinventory\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|solutionrelative:iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\JsonInventoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JsonInventoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|c:\\programerings leking\\lagerbod bibliotek\\storageinventory\\jsoninventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1A53CD-6DA6-43C5-88E2-EE92C176F813}|StorageInventory.csproj|solutionrelative:jsoninventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "JsonInventoryRepository.cs",
-              "DocumentMoniker": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\JsonInventoryRepository.cs",
+              "DocumentMoniker": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\JsonInventoryRepository.cs",
               "RelativeDocumentMoniker": "JsonInventoryRepository.cs",
-              "ToolTip": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\JsonInventoryRepository.cs",
+              "ToolTip": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\JsonInventoryRepository.cs",
               "RelativeToolTip": "JsonInventoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,37 +55,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IInventoryRepository.cs",
-              "DocumentMoniker": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\IInventoryRepository.cs",
+              "DocumentMoniker": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\IInventoryRepository.cs",
               "RelativeDocumentMoniker": "IInventoryRepository.cs",
-              "ToolTip": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\IInventoryRepository.cs",
+              "ToolTip": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\IInventoryRepository.cs",
               "RelativeToolTip": "IInventoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T20:03:21.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "InventoryService.cs",
-              "DocumentMoniker": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\InventoryService.cs",
+              "DocumentMoniker": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\InventoryService.cs",
               "RelativeDocumentMoniker": "InventoryService.cs",
-              "ToolTip": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\InventoryService.cs",
+              "ToolTip": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\InventoryService.cs",
               "RelativeToolTip": "InventoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T20:02:39.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\Location.cs",
+              "DocumentMoniker": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\Location.cs",
               "RelativeDocumentMoniker": "Location.cs",
-              "ToolTip": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\Location.cs",
+              "ToolTip": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\Location.cs",
               "RelativeToolTip": "Location.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,11 +94,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\Item.cs",
+              "DocumentMoniker": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\Item.cs",
+              "ToolTip": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\Item.cs",
               "RelativeToolTip": "Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Box.cs",
-              "DocumentMoniker": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\Box.cs",
+              "DocumentMoniker": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\Box.cs",
               "RelativeDocumentMoniker": "Box.cs",
-              "ToolTip": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\Box.cs",
+              "ToolTip": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\Box.cs",
               "RelativeToolTip": "Box.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,16 +120,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\Program.cs",
+              "DocumentMoniker": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\Program.cs",
+              "ToolTip": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T02:23:35.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T02:23:35.865Z"
             }
           ]
         }

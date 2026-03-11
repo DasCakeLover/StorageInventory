@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gWk68+dEayE=",
+  "dgSpecHash": "S4mP7CFViYc=",
   "success": true,
-  "projectFilePath": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\StorageInventory.csproj",
+  "projectFilePath": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\StorageInventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vetlu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
     "C:\\Users\\vetlu\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",

@@ -16,7 +16,6 @@ public class Item
     {
         if (amount > Quantity)
             throw new InvalidOperationException("Not enough items");
-
         Quantity -= amount;
     }
 }

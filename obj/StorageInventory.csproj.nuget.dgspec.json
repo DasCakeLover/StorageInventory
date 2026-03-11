@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\StorageInventory.csproj": {}
+    "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\StorageInventory.csproj": {}
   },
   "projects": {
-    "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\StorageInventory.csproj": {
+    "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\StorageInventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\StorageInventory.csproj",
+        "projectUniqueName": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\StorageInventory.csproj",
         "projectName": "StorageInventory",
-        "projectPath": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\StorageInventory.csproj",
+        "projectPath": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\StorageInventory.csproj",
         "packagesPath": "C:\\Users\\vetlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Programerings leking\\Lagerbod bibliotek\\StorageInventory\\obj\\",
+        "outputPath": "C:\\Programerings_leking\\Lagerbod_bibliotek\\StorageInventory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
